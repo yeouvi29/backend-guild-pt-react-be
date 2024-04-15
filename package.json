@@ -1,0 +1,18 @@
+{
+  "name": "backend-guild-pt-react-be",
+  "author": {
+    "name": "Emily K"
+  },
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}
